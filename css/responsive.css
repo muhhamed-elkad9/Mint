@@ -82,7 +82,7 @@
   }
 }
 
-@media (min-width: 541px) and (max-width: 1200px) {
+@media (min-width: 541px) and (max-width: 2400px) {
   header .parent-icon {
     display: none;
   }
