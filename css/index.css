@@ -209,7 +209,7 @@ main {
 
 .work .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
   width: auto;
 }
 
@@ -286,7 +286,7 @@ main {
 }
 
 .partners .swiper-slide {
-  width: 163.2px !important;
+  width: 235.2px !important;
   margin-right: 30px !important;
 }
 
@@ -461,7 +461,7 @@ main {
 }
 
 .blog .swiper-slide {
-  width: 292px !important;
+  width: 412px !important;
   margin-right: 30px !important;
 }
 /* End blog */
